@@ -22,4 +22,4 @@ Our project requires the following technical skills: Java, JavaScript, CSS, and 
 - _Scene Builder_
 
 My GitHub URL: https://github.com/shravanth1862/word.md
-README Preview Compiler URL: https://github.com/shravanth1862/vscode-github-markdown-preview-style
+<br> README Preview Compiler URL: https://github.com/shravanth1862/vscode-github-markdown-preview-style
