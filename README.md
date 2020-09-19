@@ -9,7 +9,7 @@ This application is relevant to our class because it is a test-driven and debugg
 ## Project Contribution
 Our project requires the following technical skills: Java, JavaScript, CSS, and GUI interface knowledge for the creation and design of the features and application. We will use Java to develop the backend of our project which will include the development of all the features and modes we offer to our users. I’ve found an implementation of the how to compile a preview for the raw markdown file which we can incorporate into the application.  This implementation is done using JavaScript and CSS which we need to understand and adapt to our project. Lastly, the frontend of the GUI will be designed using Scene Builder. Scene Builder is an UI development application that works seamlessly with Java. The goal is to include all basic features of the markdown language specifically things like bold, italicize, headers, and lists. These features will have to be implemented seamlessly on-click similar to the way a word is bolded when you click the bold button in word. 
 
-![UML Diagram](FaceLogin.png)
+![UML Diagram](https://github.com/shravanth1862/word.md/blob/master/Individual%20Project%20Proposal%20UML%20Diagram%20Link.png)
 
 My GitHub URL: https://github.com/shravanth1862/word.md
 README Preview Compiler URL: https://github.com/shravanth1862/vscode-github-markdown-preview-style
