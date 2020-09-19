@@ -1,6 +1,4 @@
-# word.md
-
-## Title: word.md (working title)
+# word.md (working title)
 
 ## Project Description
 This is application is similar to Microsoft Word in that it allows the user to create markdown files without having to know the markdown syntax. Users will be able to view two documents at the same time that represent the same file, one raw file with markdown syntax and one preview file to preview the compiled markdown file. Users will be able to type on both documents to their preference. The features of how you can edit the markdown file will be available at the top of the application where you can select different things you want to do such as bold, italicize, select heading styles similar to Word. For example, if the user types in “Hello World” and clicks the header 6 feature on the preview doc, the raw doc will change what the user typed into markdown syntax of “###### Hello World”. Users will be able to download the .md file for their use, our goal is to provide a markdown file compatible with GitHub.
