@@ -1,8 +1,5 @@
 # word.md
 
-Shravanth Surapaneni
-
-Individual Project Proposal
 ## Title: word.md (working title)
 
 ## Project Description
